@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">From</string>
+    <string name="page1_tital">Login </string>
+    <string name="page2_tital">Sing Up </string>
+
+    <string name="login_username">Enter your Username</string>
+    <string name="login_password">Enter your Password</string>
+    <string name="login_button">Sing in</string>
+    <string name="registration">New Registration</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/i1"
+        android:title="data structure" />
+    <item
+        android:id="@+id/i2"
+        android:title="operting system" />
+    <item android:title="mathematic">
+        <menu>
+            <item
+                android:id="@+id/i3"
+                android:title="algebra" />
+            <item
+                android:id="@+id/i4"
+                android:title="trig" />
+        </menu>
+    </item>
+</menu>
